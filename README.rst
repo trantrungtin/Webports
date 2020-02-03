@@ -2,7 +2,7 @@ naclports - Ports of open source software to Native Client
 ==========================================================
 
 naclports is collection of open source libraries and applications that have
-been ported to Native Client, along with set to tools for building and
+been ported to Native Client, along with set of tools for building and
 maintaining them.
 
 Packages can be built from source or prebuilt binaries packages can be
